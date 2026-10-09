@@ -1,0 +1,39 @@
+{
+  "filename": "ECS.jpeg",
+  "document_type": "NACH / ECS Mandate (handwritten)",
+  "classification_confidence": 0.92,
+  "extraction_method": "optical_fallback",
+  "fields": {
+    "Bank Account Number": {
+      "value": "31004258912",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed"
+    },
+    "IFSC Code": {
+      "value": "SBIN0227112",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed"
+    },
+    "Bank Name": {
+      "value": "State Bank of India",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed"
+    },
+    "Amount (figures)": {
+      "value": "50,000",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed"
+    },
+    "Frequency": {
+      "value": "As & when presented",
+      "confidence": 0.93,
+      "source_type": "checkbox",
+      "validation_status": "passed"
+    }
+  },
+  "needs_human_review": false
+}

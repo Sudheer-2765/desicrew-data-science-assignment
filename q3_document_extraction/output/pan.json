@@ -1,0 +1,33 @@
+{
+  "filename": "ID.png",
+  "document_type": "PAN Card",
+  "classification_confidence": 0.92,
+  "extraction_method": "optical_fallback",
+  "fields": {
+    "PAN Number": {
+      "value": "ABCDE1234F",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed"
+    },
+    "Full Name": {
+      "value": "MR. ASHOK",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed"
+    },
+    "Father's Name": {
+      "value": "S/O KUMAR",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed"
+    },
+    "Date of Birth": {
+      "value": "18/12/1979",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed"
+    }
+  },
+  "needs_human_review": false
+}

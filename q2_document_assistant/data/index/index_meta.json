@@ -1,0 +1,13 @@
+{
+  "created_at": "2026-10-08T11:45:28.194423+00:00",
+  "provider_name": "hybrid(local_deterministic)",
+  "embedding_dimension": 1024,
+  "document_count": 3,
+  "documents": [
+    "employee_support_policy.md",
+    "leave_and_attendance_policy.md",
+    "reimbursement_policy.md"
+  ],
+  "chunk_count": 29,
+  "index_version": "1.0"
+}

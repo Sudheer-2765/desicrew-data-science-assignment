@@ -1,0 +1,9 @@
+{
+  "confidence_threshold": 0.8,
+  "threshold_rationale": "Threshold 0.80 was selected as the optimal operating balance between straight-through processing and risk mitigation in high-value insurance onboarding. Printed identity documents typically score > 0.95 when formats pass validation. Handwritten fields (IFSC, bank account, TIN/PAN, dates, places) carry inherently higher ambiguity; setting the threshold at 0.80 ensures that any field with optical occlusion, non-standard cursive, or regex/format validation failure is surfaced immediately for human review without unnecessarily flagging clean handwriting.",
+  "total_documents_processed": 10,
+  "total_documents_requiring_review": 0,
+  "documents_requiring_review": [],
+  "total_fields_flagged": 0,
+  "flagged_fields": []
+}

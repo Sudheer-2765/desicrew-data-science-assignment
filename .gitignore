@@ -1,0 +1,43 @@
+# ==============================================================================
+# Git Ignore Configuration - DesiCrew Data Science Assignment
+# ==============================================================================
+
+# Python Environments & Bytecode
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Test & Coverage Artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+*.coverage.*
+
+# Sensitive Environment Configurations & Secrets
+.env
+*.env
+!.env.example
+
+# Sensitive Personal & Financial Documents (PII Protection)
+# Original identity proof (Aadhaar, PAN, Passport, DL) and insurance forms
+q3_document_extraction/input/*
+!q3_document_extraction/input/README.md
+!q3_document_extraction/input/.gitkeep
+Question 1 & 3 (Files to use)/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp

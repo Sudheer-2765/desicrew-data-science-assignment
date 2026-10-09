@@ -1,0 +1,33 @@
+{
+  "filename": "ChatGPT Image May 2, 2026, 03_52_54 PM.png",
+  "document_type": "Passport",
+  "classification_confidence": 0.92,
+  "extraction_method": "optical_fallback",
+  "fields": {
+    "Passport Number": {
+      "value": "X1234567",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed"
+    },
+    "Date of Birth": {
+      "value": "18/12/1979",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed"
+    },
+    "Date of Expiry": {
+      "value": "01/01/2030",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed"
+    },
+    "MRZ Line 2": {
+      "value": "X1234567<7IND7912185M3001010<<<<<<<<<<<<<<<08",
+      "confidence": 0.98,
+      "source_type": "mrz",
+      "validation_status": "passed"
+    }
+  },
+  "needs_human_review": false
+}

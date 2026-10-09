@@ -1,0 +1,100 @@
+{
+  "filename": "ECS.jpeg",
+  "document_type": "NACH / ECS Mandate (handwritten)",
+  "classified_type": "NACH / ECS Mandate (handwritten)",
+  "classification_confidence": 0.92,
+  "is_handwritten_document": true,
+  "fields": {
+    "Bank Account Number": {
+      "field_name": "Bank Account Number",
+      "value": "31004258912",
+      "raw_value": "31004258912",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "IFSC Code": {
+      "field_name": "IFSC Code",
+      "value": "SBIN0227112",
+      "raw_value": "SBIN0227112",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Bank Name": {
+      "field_name": "Bank Name",
+      "value": "State Bank of India",
+      "raw_value": "State Bank of India",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Amount (figures)": {
+      "field_name": "Amount (figures)",
+      "value": "50,000",
+      "raw_value": "50,000",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Frequency": {
+      "field_name": "Frequency",
+      "value": "As & when presented",
+      "raw_value": "As & when presented",
+      "confidence": 0.93,
+      "source_type": "checkbox",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    }
+  },
+  "average_confidence": 0.93,
+  "needs_human_review": false,
+  "flagged": false,
+  "flagged_fields_count": 0,
+  "raw_model_response": {
+    "Bank Account Number": {
+      "value": "31004258912",
+      "model_confidence": 0.9,
+      "visual_notes": "Boxed handwritten account number"
+    },
+    "IFSC Code": {
+      "value": "SBIN0227112",
+      "model_confidence": 0.88,
+      "visual_notes": "Boxed handwritten IFSC code"
+    },
+    "Bank Name": {
+      "value": "State Bank of India",
+      "model_confidence": 0.89,
+      "visual_notes": "Handwritten bank name"
+    },
+    "Amount (figures)": {
+      "value": "50,000",
+      "model_confidence": 0.92,
+      "visual_notes": "Handwritten rupee figure in box"
+    },
+    "Frequency": {
+      "value": "As & when presented",
+      "model_confidence": 0.88,
+      "visual_notes": "Marked checkbox option"
+    }
+  }
+}

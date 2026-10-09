@@ -1,0 +1,83 @@
+{
+  "filename": "ChatGPT Image May 2, 2026, 03_43_11 PM.png",
+  "document_type": "Driving Licence",
+  "classified_type": "Driving Licence",
+  "classification_confidence": 0.92,
+  "is_handwritten_document": false,
+  "fields": {
+    "DL Number": {
+      "field_name": "DL Number",
+      "value": "MH12 2021 0001234",
+      "raw_value": "MH12 2021 0001234",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed",
+      "is_handwritten": false,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Name": {
+      "field_name": "Name",
+      "value": "MR. ASHOK",
+      "raw_value": "MR. ASHOK",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed",
+      "is_handwritten": false,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Date of Issue": {
+      "field_name": "Date of Issue",
+      "value": "15/06/2021",
+      "raw_value": "15/06/2021",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed",
+      "is_handwritten": false,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Valid Till date": {
+      "field_name": "Valid Till date",
+      "value": "14/06/2041",
+      "raw_value": "14/06/2041",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed",
+      "is_handwritten": false,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    }
+  },
+  "average_confidence": 0.98,
+  "needs_human_review": false,
+  "flagged": false,
+  "flagged_fields_count": 0,
+  "raw_model_response": {
+    "DL Number": {
+      "value": "MH12 2021 0001234",
+      "model_confidence": 0.98,
+      "visual_notes": "Printed driving licence number"
+    },
+    "Name": {
+      "value": "MR. ASHOK",
+      "model_confidence": 0.98,
+      "visual_notes": "Printed name"
+    },
+    "Date of Issue": {
+      "value": "15/06/2021",
+      "model_confidence": 0.98,
+      "visual_notes": "Printed issue date (DOI)"
+    },
+    "Valid Till date": {
+      "value": "14/06/2041",
+      "model_confidence": 0.98,
+      "visual_notes": "Printed validity date"
+    }
+  }
+}

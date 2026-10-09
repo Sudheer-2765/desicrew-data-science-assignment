@@ -1,0 +1,100 @@
+{
+  "filename": "Fatca.jpeg",
+  "document_type": "FATCA Annexure Form (handwritten)",
+  "classified_type": "FATCA Annexure Form (handwritten)",
+  "classification_confidence": 0.92,
+  "is_handwritten_document": true,
+  "fields": {
+    "Policy Number": {
+      "field_name": "Policy Number",
+      "value": "1500137601025",
+      "raw_value": "1500137601025",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "TIN / PAN": {
+      "field_name": "TIN / PAN",
+      "value": "BPQPD3051R",
+      "raw_value": "BPQPD3051R",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Father's Name": {
+      "field_name": "Father's Name",
+      "value": "Arjun Das Kumar",
+      "raw_value": "Arjun Das Kumar",
+      "confidence": 0.91,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Place of Birth": {
+      "field_name": "Place of Birth",
+      "value": "West Bihar",
+      "raw_value": "West Bihar",
+      "confidence": 0.92,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Nationality": {
+      "field_name": "Nationality",
+      "value": "Indian",
+      "raw_value": "Indian",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    }
+  },
+  "average_confidence": 0.92,
+  "needs_human_review": false,
+  "flagged": false,
+  "flagged_fields_count": 0,
+  "raw_model_response": {
+    "Policy Number": {
+      "value": "1500137601025",
+      "model_confidence": 0.9,
+      "visual_notes": "Boxed handwritten policy number"
+    },
+    "TIN / PAN": {
+      "value": "BPQPD3051R",
+      "model_confidence": 0.87,
+      "visual_notes": "Boxed handwritten TIN/PAN in tax residency table"
+    },
+    "Father's Name": {
+      "value": "Arjun Das Kumar",
+      "model_confidence": 0.85,
+      "visual_notes": "Handwritten cursive father's name"
+    },
+    "Place of Birth": {
+      "value": "West Bihar",
+      "model_confidence": 0.86,
+      "visual_notes": "Handwritten place of birth"
+    },
+    "Nationality": {
+      "value": "Indian",
+      "model_confidence": 0.89,
+      "visual_notes": "Handwritten nationality"
+    }
+  }
+}

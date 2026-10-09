@@ -1,0 +1,33 @@
+{
+  "filename": "Aadhar.png",
+  "document_type": "Aadhaar Card",
+  "classification_confidence": 0.92,
+  "extraction_method": "optical_fallback",
+  "fields": {
+    "Aadhaar Number": {
+      "value": "1234 5678 9012",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed"
+    },
+    "Full Name": {
+      "value": "Mr. Ashok",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed"
+    },
+    "Date of Birth": {
+      "value": "18/12/1979",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed"
+    },
+    "Address": {
+      "value": "S/O Kumar, Kataia, West Bihar India - 841543",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed"
+    }
+  },
+  "needs_human_review": false
+}

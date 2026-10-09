@@ -1,0 +1,83 @@
+{
+  "filename": "ChatGPT Image May 2, 2026, 03_52_54 PM.png",
+  "document_type": "Passport",
+  "classified_type": "Passport",
+  "classification_confidence": 0.92,
+  "is_handwritten_document": false,
+  "fields": {
+    "Passport Number": {
+      "field_name": "Passport Number",
+      "value": "X1234567",
+      "raw_value": "X1234567",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed",
+      "is_handwritten": false,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Date of Birth": {
+      "field_name": "Date of Birth",
+      "value": "18/12/1979",
+      "raw_value": "18/12/1979",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed",
+      "is_handwritten": false,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Date of Expiry": {
+      "field_name": "Date of Expiry",
+      "value": "01/01/2030",
+      "raw_value": "01/01/2030",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed",
+      "is_handwritten": false,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "MRZ Line 2": {
+      "field_name": "MRZ Line 2",
+      "value": "X1234567<7IND7912185M3001010<<<<<<<<<<<<<<<08",
+      "raw_value": "X1234567<7IND7912185M3001010<<<<<<<<<<<<<<<08",
+      "confidence": 0.98,
+      "source_type": "mrz",
+      "validation_status": "passed",
+      "is_handwritten": false,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    }
+  },
+  "average_confidence": 0.98,
+  "needs_human_review": false,
+  "flagged": false,
+  "flagged_fields_count": 0,
+  "raw_model_response": {
+    "Passport Number": {
+      "value": "X1234567",
+      "model_confidence": 0.98,
+      "visual_notes": "Printed passport number"
+    },
+    "Date of Birth": {
+      "value": "18/12/1979",
+      "model_confidence": 0.98,
+      "visual_notes": "Printed date of birth"
+    },
+    "Date of Expiry": {
+      "value": "01/01/2030",
+      "model_confidence": 0.98,
+      "visual_notes": "Printed expiry date"
+    },
+    "MRZ Line 2": {
+      "value": "X1234567<7IND7912185M3001010<<<<<<<<<<<<<<<08",
+      "model_confidence": 0.96,
+      "visual_notes": "44-character Machine Readable Zone line 2"
+    }
+  }
+}

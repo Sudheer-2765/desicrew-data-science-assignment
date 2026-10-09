@@ -1,0 +1,39 @@
+{
+  "filename": "Moral.jpeg",
+  "document_type": "Moral Hazard Questionnaire (handwritten)",
+  "classification_confidence": 0.92,
+  "extraction_method": "optical_fallback",
+  "fields": {
+    "Application Number": {
+      "value": "1500137601025",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed"
+    },
+    "Name of Life Assured": {
+      "value": "Ashok",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed"
+    },
+    "Nominee Relationship": {
+      "value": "Nephew",
+      "confidence": 0.92,
+      "source_type": "handwritten",
+      "validation_status": "passed"
+    },
+    "Date": {
+      "value": "26/04/2026",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed"
+    },
+    "Place": {
+      "value": "West Bihar",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed"
+    }
+  },
+  "needs_human_review": false
+}

@@ -1,0 +1,83 @@
+{
+  "filename": "Illustration.jpeg",
+  "document_type": "Benefit Illustration Declaration (handwritten)",
+  "classified_type": "Benefit Illustration Declaration (handwritten)",
+  "classification_confidence": 0.92,
+  "is_handwritten_document": true,
+  "fields": {
+    "Application Number": {
+      "field_name": "Application Number",
+      "value": "1500137601025",
+      "raw_value": "1500137601025",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Policyholder Name": {
+      "field_name": "Policyholder Name",
+      "value": "Ashok",
+      "raw_value": "Ashok",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Date": {
+      "field_name": "Date",
+      "value": "26/04/2026",
+      "raw_value": "26/04/2026",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Place": {
+      "field_name": "Place",
+      "value": "West Bihar",
+      "raw_value": "West Bihar",
+      "confidence": 0.93,
+      "source_type": "handwritten",
+      "validation_status": "passed",
+      "is_handwritten": true,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    }
+  },
+  "average_confidence": 0.93,
+  "needs_human_review": false,
+  "flagged": false,
+  "flagged_fields_count": 0,
+  "raw_model_response": {
+    "Application Number": {
+      "value": "1500137601025",
+      "model_confidence": 0.9,
+      "visual_notes": "Handwritten proposal number"
+    },
+    "Policyholder Name": {
+      "value": "Ashok",
+      "model_confidence": 0.88,
+      "visual_notes": "Handwritten proposer name"
+    },
+    "Date": {
+      "value": "26/04/2026",
+      "model_confidence": 0.87,
+      "visual_notes": "Handwritten date"
+    },
+    "Place": {
+      "value": "West Bihar",
+      "model_confidence": 0.88,
+      "visual_notes": "Handwritten place"
+    }
+  }
+}

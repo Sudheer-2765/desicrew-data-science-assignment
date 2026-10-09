@@ -1,0 +1,83 @@
+{
+  "filename": "ID.png",
+  "document_type": "PAN Card",
+  "classified_type": "PAN Card",
+  "classification_confidence": 0.92,
+  "is_handwritten_document": false,
+  "fields": {
+    "PAN Number": {
+      "field_name": "PAN Number",
+      "value": "ABCDE1234F",
+      "raw_value": "ABCDE1234F",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed",
+      "is_handwritten": false,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Full Name": {
+      "field_name": "Full Name",
+      "value": "MR. ASHOK",
+      "raw_value": "MR. ASHOK",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed",
+      "is_handwritten": false,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Father's Name": {
+      "field_name": "Father's Name",
+      "value": "S/O KUMAR",
+      "raw_value": "S/O KUMAR",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed",
+      "is_handwritten": false,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    },
+    "Date of Birth": {
+      "field_name": "Date of Birth",
+      "value": "18/12/1979",
+      "raw_value": "18/12/1979",
+      "confidence": 0.98,
+      "source_type": "printed",
+      "validation_status": "passed",
+      "is_handwritten": false,
+      "validation_passed": true,
+      "flagged_for_review": false,
+      "review_reason": null
+    }
+  },
+  "average_confidence": 0.98,
+  "needs_human_review": false,
+  "flagged": false,
+  "flagged_fields_count": 0,
+  "raw_model_response": {
+    "PAN Number": {
+      "value": "ABCDE1234F",
+      "model_confidence": 0.98,
+      "visual_notes": "Printed PAN number"
+    },
+    "Full Name": {
+      "value": "MR. ASHOK",
+      "model_confidence": 0.98,
+      "visual_notes": "Printed holder name"
+    },
+    "Father's Name": {
+      "value": "S/O KUMAR",
+      "model_confidence": 0.97,
+      "visual_notes": "Printed father's name field"
+    },
+    "Date of Birth": {
+      "value": "18/12/1979",
+      "model_confidence": 0.98,
+      "visual_notes": "Printed birth date"
+    }
+  }
+}
